@@ -1,0 +1,17 @@
+.student{
+ border: dotted;
+ text-align: center;
+ border-color: blue;
+}
+.content{
+    padding: 25px;
+    margin: 10%;
+    border: solid 0.5px blue;
+    text-align: center;
+    border-color:purple;
+    border-width: 1px;
+    display: inline-block;
+    
+
+    
+}
